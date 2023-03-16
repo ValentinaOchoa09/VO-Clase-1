@@ -1,0 +1,57 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+a#Valentina{ 
+
+  font-weight:bold; 
+
+  font-family:Helvetica, Arial, sans-serif; 
+
+  background: pink; 
+
+    color: white; 
+} 
+
+a#Valentina{ 
+
+  font-weight:bold; 
+
+  font-family:Helvetica, Arial, sans-serif; 
+
+  background: pink; 
+
+    color: white; 
+
+  position: fixed; 
+
+  top: 50%; 
+
+  left: 50%; 
+
+  transform: translate (-50%, -50%); 
+
+    box-shadow: 1px 1px 30px black; 
+
+    padding: 1rem 2rem; 
+
+    border-radius: 5px; 
+
+} 
+
+a#Valentina:hover{ 
+
+    background:pink; 
+
+    color:black; 
+
+    transition:all ease 1s; 
+
+    top: 55%; 
+
+        box-shadow: 1px 1px 10px black; 
+}

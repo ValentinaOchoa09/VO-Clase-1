@@ -10,7 +10,7 @@ a#Valentina{
 
   font-weight:bold; 
 
-  font-family:Helvetica, Arial, sans-serif; 
+  font-family:Verdana, Arial, Tahoma, Serif; 
 
   background: pink; 
 
@@ -21,11 +21,11 @@ a#Valentina{
 
   font-weight:bold; 
 
-  font-family:Helvetica, Arial, sans-serif; 
+  font-family:Verdana, Arial, Tahoma, Serif; 
 
-  background: pink; 
+  background: lightblue; 
 
-    color: white; 
+    color: mediumpurple; 
 
   position: fixed; 
 
@@ -47,7 +47,7 @@ a#Valentina:hover{
 
     background:pink; 
 
-    color:black; 
+    color:mediumpurple; 
 
     transition:all ease 1s; 
 

@@ -1,6 +1,9 @@
+@import url('https://fonts.google.com/specimen/Oswald');
+
 html, body {
   margin: 0;
   padding: 0;
+  background: rgb(63, 52, 58);
 }
 canvas {
   display: block;
